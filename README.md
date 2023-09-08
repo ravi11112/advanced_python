@@ -2,7 +2,8 @@
 # Python Data Science Concepts
 
 This repository contains Python code examples and explanations for fundamental data science libraries: NumPy, pandas, and Matplotlib,streamlib
-
+*** do not run whole code at a time learn each step and then try to write from your self ***
+**you can also help the chatgpt and youtube and read the documentaion when faced any probelm **
 ## NumPy
 
 - **Overview:** NumPy is a Python library for numerical and array operations. It provides support for multi-dimensional arrays and various mathematical functions.
