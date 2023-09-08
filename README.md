@@ -17,7 +17,7 @@ This repository contains Python code examples and explanations for fundamental d
   - Broadcasting
   - Random number generation
   
-- **Examples:** [Link to NumPy Examples](numpy_examples.py)
+- **Examples:** [Link to NumPy Examples](numpy.py)
 
 ## pandas
 
@@ -48,6 +48,7 @@ This repository contains Python code examples and explanations for fundamental d
   
 - **Examples:** [Link to Matplotlib Examples](matplotlib.py)
 
-## Getting Started
+## Streamlib
+-learning streamlib concept with the pandas concept
 
 
