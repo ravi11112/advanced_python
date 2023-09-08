@@ -21,7 +21,7 @@ This repository contains Python code examples and explanations for fundamental d
 ## pandas
 
 - **Overview:** pandas is a powerful library for data manipulation and analysis. It introduces two main data structures: Series and DataFrame.
-
+   -
 - **Key Concepts:**
   - Series: Creating and manipulating one-dimensional labeled arrays
   - DataFrame: Working with two-dimensional labeled data structures
