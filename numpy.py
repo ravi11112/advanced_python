@@ -14,7 +14,7 @@ print(arr1.argsort())
 sort_arr1=arr1.argsort()
 print("sorting the arr1",sort_arr1)
 #print(arr(type))
-#main jin din use bhula 
+
 # Create a 1D array
 arr_1d = np.array([1, 2, 3, 4, 5])
 
